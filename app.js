@@ -139,4 +139,40 @@ function movepaddle(e){
 }
 
 
+// window.addEventListener("keydown",function(e){
+//     if(e.key=="ArrowUp" ){
+//         if(ball.x<canvas.width/2){
+//         if(user.y<0){
+//            user.y-=0;
+//         }else{
+//            user.y-=10;
+//         }   
+//     }else if(ball.x>canvas.width/2){
+       
+//             if(com.y<0){
+//                com.y-=0;
+//             }else{
+//                com.y-=10;
+//             }  
+    
+// }
+// }
+//        else if(e.key=="ArrowDown" ){
+//         if(ball.x<canvas.width/2){
+//         if(user.y+100>canvas.height){
+//            user.y+=0;
+//         }else{
+//            user.y+=10;
+//         }   
+//     }else if(ball.x>canvas.width/2){
+       
+//             if(com.y+100>canvas.height){
+//                com.y+=0;
+//             }else{
+//                com.y+=10;
+//             }  
+    
+// }
+// }
+// });
 
